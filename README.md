@@ -33,7 +33,7 @@ about code.
 
 ## Experience
 
-### Senior Front-End Developer at [DC Connected Car GmbH](https://www.dc-connected.de/en)
+### Senior Front-End Developer and tech lead at [DC Connected Car GmbH](https://www.dc-connected.de/en)
 *Germany* — *May 2023 - Present*
 
 At DC Connected, I contribute to the development of a cutting-edge, AI-powered
@@ -114,6 +114,42 @@ experience in delivering high-quality e-commerce solutions.
   resolution and bug fixing, monitoring application logs, recognizing alarms, and
   creating detailed reports for the responsible teams to ensure quick incident
   resolution and minimize user impact.
+
+### Globant - Frontend Developer & Technical Leader at [Globant](https://www.globant.com/)
+*Buenos Aires, Argentina* - *May 2016 - December 2020*
+
+As a frontend developer and technical leader, I played a key role in the
+development of a web application for managing financial instruments and live
+transactions for a major US financial institution.  Working within an agile
+environment, I collaborated with a talented team utilizing React and Angular to
+deliver a robust, cloud-based trading solution. This experience significantly
+enhanced my frontend development skills, strengthened my technical leadership
+abilities, and provided valuable expertise in building financial management
+solutions.
+
+**My main responsibilities included:**
+
+* **Leading communication and requirement gathering with the client:** As a
+  senior developer and team representative, I actively participated in client
+  meetings to understand their needs and translate those requirements into
+  actionable Jira tickets for the development team. This ensured effective
+  communication and alignment between the client's vision and the team's
+  execution.
+* **Collaborating in the development of a complex financial web application:** I
+  contributed to the development of core features for a web application that
+  enabled users to manage financial instruments and execute live transactions.
+  This involved working with large datasets, real-time data updates, and complex
+  user workflows. Designing and implementing a middleware solution for API
+  integration: To overcome the challenge of integrating with the bank's legacy
+  APIs, I collaborated with the team to design and implement a middleware service
+  that standardized API calls and ensured seamless communication between the
+  frontend and backend systems. This solution improved the maintainability and
+  scalability of the application.
+* **Mentoring junior developers and fostering a collaborative team environment:**
+  I provided guidance and support to junior developers on the team,
+  sharing my knowledge and experience to help them grow their skills and
+  contribute effectively to the project. I fostered a positive and collaborative
+  team environment that promoted knowledge sharing and continuous improvement.
 
 ---
 

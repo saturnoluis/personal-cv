@@ -31,7 +31,7 @@ responsable, de mente abierta, honesto, organizado y apasionado por el código.
 
 ## Experiencia
 
-### Desarrollador Frontend Senior en [DC Connected Car GmbH](https://www.dc-connected.de/en)
+### Desarrollador Frontend Senior y líder técnico en [DC Connected Car GmbH](https://www.dc-connected.de/en)
 *Alemania* — *Mayo 2023 - Presente*  
 
 Contribuyo en el desarrollo de una plataforma de vanguardia, impulsada por IA,
@@ -121,6 +121,43 @@ experiencia en la entrega de soluciones de comercio electrónico de alta calidad
   aplicación, el reconocimiento de alarmas y la creación de informes detallados
   para los equipos responsables, con el objetivo de asegurar una resolución rápida
   de incidentes y minimizar el impacto en el usuario.
+
+### Globant - Desarrollador Frontend y Líder Técnico en [Globant](https://www.globant.com/)
+*Buenos Aires, Argentina* - *Mayo 2016 - Diciembre 2020*
+
+Como desarrollador frontend y líder técnico, desempeñé un papel clave en el
+desarrollo de una aplicación web para la gestión de instrumentos financieros y
+transacciones en tiempo real para una importante institución financiera de EE. UU.
+Trabajando en un entorno ágil, colaboré con un equipo talentoso utilizando React y
+Angular para entregar una solución de trading robusta y basada en la nube. Esta
+experiencia mejoró significativamente mis habilidades en desarrollo frontend,
+fortaleció mis capacidades de liderazgo técnico y me brindó una valiosa experiencia
+en la creación de soluciones de gestión financiera.
+
+**Mis principales responsabilidades incluyeron:**
+
+* **Liderar la comunicación y recolección de requisitos con el cliente:** Como
+  desarrollador senior y representante del equipo, participé activamente en
+  reuniones con el cliente para comprender sus necesidades y traducir esos
+  requisitos en tickets de Jira para el equipo de desarrollo. Esto garantizó una
+  comunicación efectiva y alineación entre la visión del cliente y la ejecución
+  del equipo.
+* **Colaborar en el desarrollo de una aplicación web financiera compleja:** Contribuí
+  al desarrollo de características clave de una aplicación web que permitía a los
+  usuarios gestionar instrumentos financieros y ejecutar transacciones en tiempo
+  real. Esto implicó trabajar con grandes volúmenes de datos, actualizaciones de
+  datos en tiempo real y flujos de trabajo de usuario complejos.
+* **Diseñar e implementar una solución de middleware para la integración de APIs:**
+  Para superar el desafío de integrar las APIs heredadas del banco, colaboré con
+  el equipo para diseñar e implementar un servicio de middleware que estandarizó
+  las llamadas a las APIs y aseguró una comunicación fluida entre los sistemas
+  frontend y backend. Esta solución mejoró la mantenibilidad y escalabilidad de la
+  aplicación.
+* **Mentorear a desarrolladores junior y fomentar un entorno de equipo colaborativo:**
+  Brindé orientación y apoyo a los desarrolladores junior del equipo, compartiendo
+  mis conocimientos y experiencia para ayudarlos a mejorar sus habilidades y
+  contribuir de manera efectiva al proyecto. Fomenté un ambiente de equipo positivo
+  y colaborativo que promovía el intercambio de conocimientos y la mejora continua.
 
 ---
 
