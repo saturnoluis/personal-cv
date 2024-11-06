@@ -86,6 +86,34 @@ user-friendly interfaces for cutting-edge AI technologies.
   priorities and ensure efficient delivery of tasks. Despite working remotely, I
   maintained fluid communication with the team and met deadlines.
 
+### Senior Frontend Developer at [MercadoLibre](https://mercadolibre.com.ar)
+*Buenos Aires, Argentina* - *December 2020 - November 2021*
+
+As a senior frontend developer for a leading e-commerce platform in Latin
+America, I collaborated with the team responsible for the user help portal in
+developing new features, taking into account cross-browser compatibility, SEO,
+and accessibility. I was also responsible for on-call duties, including incident
+resolution, bug fixing, and user support. This role allowed me to gain
+experience in delivering high-quality e-commerce solutions.
+
+**My main responsibilities included:**
+
+* **Development of new features for the help center:** This included creating
+  new FAQ pages, focusing on cross-browser compatibility, search engine
+  optimization (SEO), and accessibility. Ensuring that these features were easily
+  discoverable by users through search engines and the site's internal navigation.
+* **Ensuring compliance with accessibility standards:** I implemented UI
+  elements following MercadoLibre's accessibility guidelines, including color
+  palettes and contrast requirements, to provide a user-friendly experience for
+  individuals with color blindness or other visual impairments.
+* **Working with a proprietary UI framework based on React:** I learned and
+  effectively used MercadoLibre's proprietary UI framework, adapting to its
+  specific conventions and functionalities while maintaining consistency with the
+  overall platform design.
+* **Performing on-call duties:** My responsibilities included incident
+  resolution and bug fixing, monitoring application logs, recognizing alarms, and
+  creating detailed reports for the responsible teams to ensure quick incident
+  resolution and minimize user impact.
 
 ---
 

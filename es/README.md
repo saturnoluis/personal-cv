@@ -88,6 +88,40 @@ interfaces intuitivas y fáciles de usar para tecnologías de IA de vanguardia.
   trabajar de forma remota, mantuve una comunicación fluida con el equipo y cumplí
   con los plazos de entrega.
 
+### Desarrollador Frontend Senior en [MercadoLibre](https://mercadolibre.com.ar)
+*Buenos Aires, Argentina* - *December 2020 - November 2021*
+
+Como desarrollador frontend senior para una plataforma líder de comercio
+electrónico en Latinoamérica, colaboré con el equipo responsable del portal de
+ayuda al usuario en el desarrollo de nuevas funcionalidades,  teniendo en cuenta
+la compatibilidad entre navegadores, el SEO y la accesibilidad. También fui
+responsable de las tareas de guardia, incluyendo la resolución de incidentes, la
+corrección de errores y el soporte al usuario. Este rol me permitió adquirir
+experiencia en la entrega de soluciones de comercio electrónico de alta calidad.
+
+**Mis principales responsabilidades fueron:**
+
+* **Desarrollo de nuevas características para el centro de ayuda:** Esto incluyó
+  la creación de nuevas páginas de preguntas frecuentes, con foco en la
+  compatibilidad entre navegadores, la optimización para motores de búsqueda (SEO)
+  y la accesibilidad. Asegurándonos de que estas funcionalidades fueran fácilmente
+  detectables por los usuarios a través de motores de búsqueda y la navegación
+  interna del sitio web.
+* **Asegurar el cumplimiento de los estándares de accesibilidad:** Implementé
+  elementos de la interfaz de usuario siguiendo las pautas de accesibilidad de
+  Mercado Libre, incluyendo paletas de colores y requisitos de contraste, para
+  brindar una experiencia amigable para personas con daltonismo u otras
+  discapacidades visuales.
+* **Trabajar con un framework propietario de UI basado en React:** Aprendí y
+  utilicé eficazmente el framework de interfaz de usuario propietario de Mercado
+  Libre, adaptándome a sus convenciones y funcionalidades específicas, a la vez
+  que mantenía la coherencia con el diseño general de la plataforma.
+* **Realizar tareas de guardia:** Mis responsabilidades incluyeron la resolución
+  de incidentes y la corrección de errores, el monitoreo de los registros de la
+  aplicación, el reconocimiento de alarmas y la creación de informes detallados
+  para los equipos responsables, con el objetivo de asegurar una resolución rápida
+  de incidentes y minimizar el impacto en el usuario.
+
 ---
 
 ## Education
