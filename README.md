@@ -1,7 +1,10 @@
 
-# [Your Name]
+# Luis Saturno
 **Software Developer**  
-[Your Location] • [Your Email] • [Your Phone Number] • [Your LinkedIn](https://www.linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+Barcelona, Spain •
+[saturno.luis@gmail.com](mailto:saturno.luis@gmail.com) •
+[Your LinkedIn](https://www.linkedin.com/in/saturnoluis) •
+[GitHub](https://github.com/saturnoluis)
 
 ---
 
