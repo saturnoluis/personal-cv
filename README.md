@@ -46,20 +46,20 @@ personalized assistance.
 
 **My specific responsibilities include:**
 
-* Design and implementation of the UI architecture: From the beginning of the
-project, I led the selection and implementation of SvelteKit as the main
-framework, considering its alignment with web standards, its suitability for a
-full-stack team, and its server-side rendering capabilities. This decision
-facilitated a smooth learning curve for the team and optimized the platform's
-performance.
-* Mentoring and guidance for junior developers: I act as a mentor and reference
-for junior developers on the team, providing them with technical support,
-answering their questions, and guiding them in the use of SvelteKit, efficient
-Git management, good development practices, and code documentation.
-* Maintenance of UI repositories: I am responsible for reviewing the code
-submitted by other developers, ensuring its quality, performing integrations
-into the main branches, and executing deployments to development and testing
-environments.
+* **Design and implementation of the UI architecture:** From the beginning of the
+  project, I led the selection and implementation of SvelteKit as the main
+  framework, considering its alignment with web standards, its suitability for a
+  full-stack team, and its server-side rendering capabilities. This decision
+  facilitated a smooth learning curve for the team and optimized the platform's
+  performance.
+* **Mentoring and guidance for junior developers:** I act as a mentor and reference
+  for junior developers on the team, providing them with technical support,
+  answering their questions, and guiding them in the use of SvelteKit, efficient
+  Git management, good development practices, and code documentation.
+* **Maintenance of UI repositories:** I am responsible for reviewing the code
+  submitted by other developers, ensuring its quality, performing integrations
+  into the main branches, and executing deployments to development and testing
+  environments.
 
 ---
 

@@ -45,20 +45,20 @@ asistencia personalizada.
 
 **Mis responsabilidades específicas incluyen:**
 
-* Diseño e implementación de la arquitectura de UI: Desde el inicio del
-proyecto, lideré la selección e implementación de SvelteKit como framework
-principal, considerando su alineamiento con los estándares web, su idoneidad
-para un equipo full-stack, y sus capacidades de renderizado del lado del
-servidor. Esta decisión facilitó una curva de aprendizaje fluida para el equipo
-y optimizó el rendimiento de la plataforma.
-* Mentoría y guía para desarrolladores junior: Actúo como mentor y referente
-para los desarrolladores junior del equipo, brindándoles apoyo técnico,
-resolviendo sus dudas, y guiándolos en el uso de SvelteKit, el manejo eficiente
-de Git, las buenas prácticas de desarrollo, y la documentación del código.
-* Mantenimiento de los repositorios de UI: Soy responsable de revisar el código
-que otros desarrolladores entregan, asegurando la calidad del mismo, realizando
-las integraciones a las ramas principales, y ejecutando los despliegues a los
-entornos de desarrollo y prueba.
+* **Diseño e implementación de la arquitectura de UI:** Desde el inicio del
+  proyecto, lideré la selección e implementación de SvelteKit como framework
+  principal, considerando su alineamiento con los estándares web, su idoneidad
+  para un equipo full-stack, y sus capacidades de renderizado del lado del
+  servidor. Esta decisión facilitó una curva de aprendizaje fluida para el equipo
+  y optimizó el rendimiento de la plataforma.
+* **Mentoría y guía para desarrolladores junior:** Actúo como mentor y referente
+  para los desarrolladores junior del equipo, brindándoles apoyo técnico,
+  resolviendo sus dudas, y guiándolos en el uso de SvelteKit, el manejo eficiente
+  de Git, las buenas prácticas de desarrollo, y la documentación del código.
+* **Mantenimiento de los repositorios de UI:** Soy responsable de revisar el
+  código que otros desarrolladores entregan, asegurando la calidad del mismo,
+  realizando las integraciones a las ramas principales, y ejecutando los
+  despliegues a los entornos de desarrollo y prueba.
 
 ### [Job Title] at [Previous Company Name]
 *Location* — *[Start Date] – [End Date]*  
