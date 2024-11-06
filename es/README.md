@@ -24,7 +24,7 @@ responsable, de mente abierta, honesto, organizado y apasionado por el código.
 ## Habilidades técnicas
 - **Lenguages**: JavaScript, TypeScript, HTML5+, CSS3+.
 - **Frameworks/Librerías**: Svelte, SvelteKit, React, Next.js, Tailwind.
-- **Herramientas**: Git, Vite, Vitest, Playwright, Bash.
+- **Herramientas**: Git, Vite, Vitest, Playwright, Bash, Linux.
 - **Otros**: Metodologías Agile, Unit Testing, Github CI/CD.
 
 ---

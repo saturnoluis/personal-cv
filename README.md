@@ -6,6 +6,8 @@ Barcelona, Spain •
 [LinkedIn](https://www.linkedin.com/in/saturnoluis) •
 [GitHub](https://github.com/saturnoluis)
 
+*[Ver en Español](https://github.com/saturnoluis/personal-cv/tree/main/es)*
+
 ---
 
 ## Summary
@@ -24,7 +26,7 @@ about code.
 ## Skills
 - **Languages**: JavaScript, TypeScript, HTML5+, CSS3+.
 - **Frameworks/Libraries**: Svelte, SvelteKit, React, Next.js, Tailwind.
-- **Tools**: Git, Vite, Vitest, Playwright, Bash.
+- **Tools**: Git, Vite, Vitest, Playwright, Bash, Linux.
 - **Other**: Agile methodologies, Unit Testing, Github CI/CD.
 
 ---
