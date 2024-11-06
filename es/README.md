@@ -161,31 +161,31 @@ en la creación de soluciones de gestión financiera.
 
 ---
 
-## Education
-**[Your Degree]** in [Your Major]  
-[University/College Name], [Location] — [Graduation Year]
+## Educación
+
+**Universidad José Antonio Páez**  
+*Licenciatura en Ingeniería en Computación (2003 – 2008)*  
+Venezuela
+
+**Instituto de Diseño de Valencia**  
+*Diseñador Gráfico (2009 – 2012)*  
+Venezuela
+
+**Universidad José Antonio Páez**  
+*Diplomado en Desarrollo de Aplicaciones Web (2005 – 2006)*  
+Venezuela
 
 ---
 
-## Projects
-### [Project Name]
-[Brief description of the project. Highlight your role, technologies used, and key takeaways or outcomes.]
-- [Link to the project repository or demo](#)
+### Intereses
+Soy muy entusiasta de Linux y todo lo que tenga que ver con FOSS (Software Libre
+y de Código Abierto). Me encanta ver películas, especialmente de ciencia
+ficción; mi favorita es *Matrix*. Estoy felizmente casado desde hace casi 10
+años. Tengo un hermoso perro llamado Napoleón. Me encanta salir a comer y estar
+al aire libre.
 
-### [Other Notable Project]
-[Details as above.]
+## Sobre Mí
 
----
+**Nombre completo:** Luis José Saturno Rueda  
+**Nacionalidad:** Venezolano  
 
-## Certifications
-- [Certification Name] — [Year]
-- [Relevant Online Courses or Certificates] — [Year]
-
----
-
-## Interests
-[Hobbies or relevant interests, e.g., open-source contributions, tech blogging, hackathons.]
-
----
-
-*

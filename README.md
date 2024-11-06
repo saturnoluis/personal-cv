@@ -154,30 +154,29 @@ solutions.
 ---
 
 ## Education
-**[Your Degree]** in [Your Major]  
-[University/College Name], [Location] — [Graduation Year]
 
----
+**Universidad José Antonio Páez**  
+*Bachelor's Degree in Computer Engineering (2003 – 2008)*  
+Venezuela
 
-## Projects
-### [Project Name]
-[Brief description of the project. Highlight your role, technologies used, and key takeaways or outcomes.]
-- [Link to the project repository or demo](#)
+**Instituto de Diseño de Valencia**  
+*Graphic Designer (2009 – 2012)*  
+Venezuela
 
-### [Other Notable Project]
-[Details as above.]
-
----
-
-## Certifications
-- [Certification Name] — [Year]
-- [Relevant Online Courses or Certificates] — [Year]
+**Universidad José Antonio Páez**  
+*Diploma in Web Application Development (2005 – 2006)*  
+Venezuela
 
 ---
 
 ## Interests
-[Hobbies or relevant interests, e.g., open-source contributions, tech blogging, hackathons.]
+I am passionate about Linux and everything related to FOSS (Free and Open Source
+Software). I love watching movies, especially science fiction; my favorite is
+*The Matrix*. I have been happily married for nearly 10 years. I have a
+beautiful dog named Napoleon. I enjoy dining out and spending time outdoors.
 
----
+## About Me
 
-*This CV was generated using markdown. Check out my [GitHub portfolio](https://github.com/yourusername) for more details!*
+**Full Name:** Luis José Saturno Rueda  
+**Nationality:** Venezuelan  
+
