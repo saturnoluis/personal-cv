@@ -31,7 +31,7 @@ responsable, de mente abierta, honesto, organizado y apasionado por el código.
 
 ## Experiencia
 
-### Desarrollador Frontend Senior en DC Connected Car GmbH
+### Desarrollador Frontend Senior en [DC Connected Car GmbH](https://www.dc-connected.de/en)
 *Alemania* — *Mayo 2023 - Presente*  
 
 Contribuyo en el desarrollo de una plataforma de vanguardia, impulsada por IA,
@@ -60,11 +60,33 @@ asistencia personalizada.
   realizando las integraciones a las ramas principales, y ejecutando los
   despliegues a los entornos de desarrollo y prueba.
 
-### [Job Title] at [Previous Company Name]
-*Location* — *[Start Date] – [End Date]*  
-- Contributed to [describe main achievements, projects].
-- Collaborated with [mention teams or colleagues, if relevant].
-- Enhanced [mention improvements, tools implemented, or processes streamlined].
+### Desarrollador Frontend Senior en [Wordly. Inc.](https://www.wordly.ai/)
+*Los Altos, California, EE.UU.* - *Noviembre 2021 - Enero 2023*
+
+En Wordly.ai, contribuí al desarrollo y mantenimiento de la interfaz de usuario
+para un conjunto de soluciones de interpretación simultánea impulsadas por IA.
+Estas soluciones, diseñadas para facilitar reuniones, conferencias y eventos
+multilingües, me permitieron adquirir una valiosa experiencia en la creación de
+interfaces intuitivas y fáciles de usar para tecnologías de IA de vanguardia.
+
+**Mis responsabilidades específicas incluyeron:**
+
+* **Desarrollo de nuevas funcionalidades para dos productos clave:** Trabajé en
+  la implementación de nuevas características para dos proyectos principales: una
+  extensión de Zoom en Angular para añadir traducciones en vivo a cualquier
+  conferencia, y una extensión de Chrome y Firefox en React para traducir videos
+  en tiempo real en páginas web.
+* **Resolución eficiente de errores:** Identifiqué y solucioné errores en las
+  aplicaciones existentes, utilizando mi experiencia en Angular y React para
+  abordar problemas prioritarios en ambos frameworks. Destacaba por mi facilidad
+  de encontrar errores y soluciones permanentes para las mismas. Además de
+  escribir unit-tests que ayuden a asegurar que los errores no vuelvan a pasar y
+  levantar documentación "post-mortem".
+* **Colaboración efectiva en un entorno ágil:** Participé activamente en la
+  metodología Kanban, sincronizándome diariamente con los líderes de equipo para
+  organizar prioridades y asegurar la entrega eficiente de las tareas. A pesar de
+  trabajar de forma remota, mantuve una comunicación fluida con el equipo y cumplí
+  con los plazos de entrega.
 
 ---
 

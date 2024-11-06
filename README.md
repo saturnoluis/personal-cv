@@ -33,7 +33,7 @@ about code.
 
 ## Experience
 
-### Senior Front-End Developer at DC Connected Car GmbH
+### Senior Front-End Developer at [DC Connected Car GmbH](https://www.dc-connected.de/en)
 *Germany* — *May 2023 - Present*
 
 At DC Connected, I contribute to the development of a cutting-edge, AI-powered
@@ -60,6 +60,32 @@ personalized assistance.
   submitted by other developers, ensuring its quality, performing integrations
   into the main branches, and executing deployments to development and testing
   environments.
+
+### Senior Front-End developer at [Wordly. Inc.](https://www.wordly.ai/)
+*Los Altos, California, EE.UU.* - *November 2021 - January 2023*
+
+At Wordly.ai, I contributed to the development and maintenance of the user
+interface for a suite of AI-powered simultaneous interpretation solutions. These
+solutions, designed to facilitate multilingual meetings, conferences, and
+events, allowed me to gain valuable experience in creating intuitive and
+user-friendly interfaces for cutting-edge AI technologies.
+
+**My specific responsibilities included:**
+
+* **Development of new features for two key products:** I worked on implementing
+  new features for two main projects: a Zoom extension in Angular to add live
+  translations to any conference, and a Chrome and Firefox extension in React to
+  translate videos in real-time on web pages.
+* **Efficient bug resolution:** I identified and solved bugs in existing
+  applications, using my experience in Angular and React to address priority bugs
+  in critical applications. I stood out for my ease in finding bugs and permanent
+  solutions for them. In addition to writing unit-tests to help ensure that errors
+  do not happen again and raising "post-mortem" documentation.
+* **Effective collaboration in an agile environment:** I actively participated
+  in the Kanban methodology, synchronizing daily with team leaders to organize
+  priorities and ensure efficient delivery of tasks. Despite working remotely, I
+  maintained fluid communication with the team and met deadlines.
+
 
 ---
 
