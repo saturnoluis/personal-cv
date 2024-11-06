@@ -1,39 +1,63 @@
-
 # Luis Saturno
+
 **Software Developer**  
 Barcelona, Spain •
 [saturno.luis@gmail.com](mailto:saturno.luis@gmail.com) •
-[Your LinkedIn](https://www.linkedin.com/in/saturnoluis) •
+[LinkedIn](https://www.linkedin.com/in/saturnoluis) •
 [GitHub](https://github.com/saturnoluis)
 
 ---
 
 ## Summary
-Motivated software developer with [number] years of experience in [technology stack or main skills]. Skilled in building and maintaining scalable applications with a strong focus on [your specialties, e.g., frontend development, backend architecture, etc.]. Passionate about contributing to open-source and collaborating on innovative projects.
+
+Software engineer with over 10 years of experience, specialized in the design
+and development of robust and maintainable web applications, primarily using
+TypeScript, Node.js, and its surrounding ecosystem. My experience working in
+large teams has led me to develop strong skills in writing clean, organized, and
+well-documented code to promote collaboration and reduce maintenance costs. I
+have experience with modern development frameworks like Next.js and SvelteKit. I
+am known for being responsible, open-minded, honest, organized, and passionate
+about code.
 
 ---
 
 ## Skills
-- **Languages**: [JavaScript, TypeScript, Python, etc.]
-- **Frameworks/Libraries**: [Svelte, React, Node.js, etc.]
-- **Tools**: [Git, Docker, Webpack, etc.]
-- **Other**: [Agile methodologies, Unit Testing, CI/CD, etc.]
+- **Languages**: JavaScript, TypeScript, HTML5+, CSS3+.
+- **Frameworks/Libraries**: Svelte, SvelteKit, React, Next.js, Tailwind.
+- **Tools**: Git, Vite, Vitest, Playwright, Bash.
+- **Other**: Agile methodologies, Unit Testing, Github CI/CD.
 
 ---
 
 ## Experience
 
-### [Job Title] at [Company Name]
-*Location* — *[Start Date] – [End Date] or Present*  
-- Developed [describe key projects, features, or technologies used].
-- Improved [describe key improvements or outcomes, e.g., performance, user experience].
-- Led [mention leadership roles or collaboration with team members].
+### Senior Front-End Developer at DC Connected Car GmbH
+*Germany* — *May 2023 - Present*
 
-### [Job Title] at [Previous Company Name]
-*Location* — *[Start Date] – [End Date]*  
-- Contributed to [describe main achievements, projects].
-- Collaborated with [mention teams or colleagues, if relevant].
-- Enhanced [mention improvements, tools implemented, or processes streamlined].
+At DC Connected, I contribute to the development of a cutting-edge, AI-powered
+platform that provides preventive and on-demand vehicle diagnostics. This
+platform allows vehicle owners and fleet managers to resolve issues remotely,
+reducing the need for on-site assistance and optimizing efficiency and costs
+when supporting drivers. Through a chat with an AI that has context about
+vehicles based on their make and model, users can obtain information and
+personalized assistance.
+
+**My specific responsibilities include:**
+
+* Design and implementation of the UI architecture: From the beginning of the
+project, I led the selection and implementation of SvelteKit as the main
+framework, considering its alignment with web standards, its suitability for a
+full-stack team, and its server-side rendering capabilities. This decision
+facilitated a smooth learning curve for the team and optimized the platform's
+performance.
+* Mentoring and guidance for junior developers: I act as a mentor and reference
+for junior developers on the team, providing them with technical support,
+answering their questions, and guiding them in the use of SvelteKit, efficient
+Git management, good development practices, and code documentation.
+* Maintenance of UI repositories: I am responsible for reviewing the code
+submitted by other developers, ensuring its quality, performing integrations
+into the main branches, and executing deployments to development and testing
+environments.
 
 ---
 
