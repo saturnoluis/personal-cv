@@ -188,4 +188,4 @@ al aire libre.
 
 **Nombre completo:** Luis José Saturno Rueda  
 **Nacionalidad:** Venezolano  
-
+**Fecha de nacimiento:** 13 de Marzo, 1986
